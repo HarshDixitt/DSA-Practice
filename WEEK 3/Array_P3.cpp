@@ -1,4 +1,6 @@
-// 2D ARRAY
+// Author - Harsh Dixit
+
+// 2D ARRAY CODES
 
 
 #include<iostream>
