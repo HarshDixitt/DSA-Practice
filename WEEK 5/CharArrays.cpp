@@ -1,4 +1,4 @@
-
+Author - Harsh Dixit
 
 /* CHAR ARRAYS
     
@@ -35,7 +35,8 @@ int main()
 	return 0;
 }
 
-/* DELIMITER -> It is a special character which indicates the beginning or end
+/* 
+DELIMITER -> It is a special character which indicates the beginning or end
                 of a statement or string.
                 
     Delimiter of cin in char arrays and strings
@@ -56,7 +57,8 @@ cin.getline()--> when we want to use space and tab while entering the data, we u
 				 
 	Delimiter of cin.getline()  --> '\n'
 	
---------------------------------------------------------------------------------------------------------------*/
+--------------------------------------------------------------------------------------------------------------
+*/
 // Length of a string
 
 #include<iostream>
