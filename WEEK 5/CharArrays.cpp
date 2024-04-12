@@ -24,16 +24,16 @@ NOTE ---> char arrays is also passed by refrence.
 
 --------------------------------------------------------------------------------*/
 
-//#include<iostream>
-//using namespace std;
-//int main()
-//{
-//	char ch[10];
-//	cin >> ch;
-//	cout << "The One and Only: " << ch << endl;
-//	cout << "ASCII value is: " << (int)ch[6];
-//	return 0;
-//}
+#include<iostream>
+using namespace std;
+int main()
+{
+	char ch[10];
+  cin >> ch;
+	cout << "The One and Only: " << ch << endl;
+	cout << "ASCII value is: " << (int)ch[6];
+	return 0;
+}
 
 /* DELIMITER -> It is a special character which indicates the beginning or end
                 of a statement or string.
