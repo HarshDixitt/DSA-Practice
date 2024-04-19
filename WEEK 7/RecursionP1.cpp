@@ -1,3 +1,6 @@
+AUTHOR - HARSH DIXIT
+MAIL - harsh02.dixit@gmail.com
+
 // RECURSION PART 1
 
 // Recursions - when a function calls itself directly/indirectly.
